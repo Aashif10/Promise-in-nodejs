@@ -1,1 +1,1 @@
-#Slider in javascript
+#Promise in nodejs
